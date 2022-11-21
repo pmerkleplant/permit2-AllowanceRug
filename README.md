@@ -1,3 +1,10 @@
+# Fork of permit2
+
+This repo is for demonstration purposes **only**!
+It includes a PoC rug vector describes [here](garden.merklplant.xyz/post/rugging-erc20-allowances-via-permit2/).
+
+**Don't use**
+
 # permit2
 
 Permit2 introduces a low-overhead, next generation token approval/meta-tx system to make token approvals easier, more secure, and more consistent across applications.
