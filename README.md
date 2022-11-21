@@ -1,7 +1,8 @@
 # Fork of permit2
 
 This repo is for demonstration purposes **only**!
-It includes a PoC rug vector describes [here](garden.merklplant.xyz/post/rugging-erc20-allowances-via-permit2/).
+
+It includes a PoC rug vector described [here](garden.merklplant.xyz/post/rugging-erc20-allowances-via-permit2/).
 
 **Don't use**
 
